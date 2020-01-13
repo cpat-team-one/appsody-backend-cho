@@ -1,0 +1,6 @@
+
+metadata:
+    namespace: dev-{initials}
+    ;
+project-name: appsody-backend-cho
+stack: kabanero/nodejs-express:0.2
